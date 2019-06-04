@@ -4,7 +4,7 @@ An AES implementation I wrote in Go, used to create the CryptoFunHouse challenge
 
 I wrote this to learn about the internals of the AES cipher, also known as Rijndael, and Go itself. It's here in case it's useful in CTF challenges, but is not intended for real-world crypto. Use a tried and tested implementation if you need that.
 
-import by placing the following at the top of your Go program:
+Import by placing the following at the top of your Go program:
 
 ```go
 import "github.com/xrmon/aes"
