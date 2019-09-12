@@ -13,7 +13,7 @@ import "github.com/xrmon/aes"
 Then run the command:
 
 ```
-go get https://github.com/xrmon/aes
+go get github.com/xrmon/aes
 ```
 
 As always, any function starting in a capital letter is exported. For example, the function:
