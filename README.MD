@@ -40,14 +40,6 @@ There is currently no support for padding or modes of operation - this package o
 
 *c/sbox.c*: C program used to produce the s-box.
 
-### Contact
-
-If you find a problem in the code or want to improve it, feel free to submit an issue or pull request.
-
-If you'd like to get in contact, you can do so at:
-
-xrmon **at** pm **dot** me
-
 ### Acknowledgements ###
 
 Test cases taken from FIPS standard at https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf
@@ -57,3 +49,11 @@ MixColumns test cases from Wikipedia: https://en.wikipedia.org/wiki/Rijndael_Mix
 Reference sbox from https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Rijndael_S-box.html
 
 Code to generate sbox adapted from Wikipedia: https://en.wikipedia.org/wiki/Rijndael_S-box
+
+### Contact
+
+If you find a problem in the code or want to improve it, feel free to submit an issue or pull request.
+
+If you'd like to get in contact, you can do so at:
+
+xrmon **at** pm **dot** me
